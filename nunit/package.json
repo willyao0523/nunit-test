@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "nunit",
+  "version": "1.0.0",
+  "description": "Test framework for node project",
+  "bin": "./src/cli.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "exports": {
+    ".": "./src/runner.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

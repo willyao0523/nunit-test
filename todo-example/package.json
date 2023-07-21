@@ -1,0 +1,16 @@
+{
+  "name": "todo-example",
+  "version": "1.0.0",
+  "description": "Test example base",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "nunit"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "prettier": {
+    "printWidth": 80
+  }
+}
